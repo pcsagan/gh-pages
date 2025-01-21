@@ -1,0 +1,19 @@
+computers:
+  label: Computers
+  permalink: /computers
+  description: Computers are cool
+
+boating:
+  label: Boating
+  permalink: /boating
+  description: Boating is cool
+
+rc:
+  label: Remote Control
+  permalink: /rc
+  description: Remote Control is cool
+
+gis:
+  label: GIS
+  permalink: /gis
+  description: GIS is cool
